@@ -1,6 +1,10 @@
 # Hello Kompute
 
 ```
+$ sudo apt install libvulkan-dev
+```
+
+```
 $ cd hello-kompute
 $ cmake -B build
 $ cmake --build build
