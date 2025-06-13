@@ -1,7 +1,7 @@
 # Hello Kompute
 
 ```
-$ sudo apt install libvulkan-dev
+$ sudo apt install libvulkan-dev glslang-tools
 ```
 
 ```
